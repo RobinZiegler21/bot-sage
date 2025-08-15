@@ -1,0 +1,19 @@
+{
+  "name": "bot-sage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^4.0.1",
+    "dotenv": "^17.2.1",
+    "matrix-js-sdk": "^37.12.0",
+    "openai": "^5.12.2"
+  }
+}
